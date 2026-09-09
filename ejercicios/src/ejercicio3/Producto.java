@@ -1,3 +1,4 @@
+package ejercicio3;
 public class Producto {
     String nombreP;
     double precio;
