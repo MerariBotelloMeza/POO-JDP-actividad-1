@@ -11,4 +11,6 @@ public class Paciente {
     * la clase Paciente significa crear un objeto concreto a partir de ese
     * modelo, es decir, crear un paciente específico.
     * */
+    // objeto
+    Paciente paciente1 = new Paciente();
 }
