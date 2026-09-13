@@ -1,4 +1,5 @@
-package ejercicio5;
+package ejercicio9;
+
 public class Mascota {
     String nombreM;
     String especie;

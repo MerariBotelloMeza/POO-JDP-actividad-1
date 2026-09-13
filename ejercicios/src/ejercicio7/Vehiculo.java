@@ -1,4 +1,5 @@
-package ejercicio2;
+package ejercicio7;
+
 public class Vehiculo {
     String marca;
     String modelo;
@@ -8,7 +9,7 @@ public class Vehiculo {
     public void mostrarEstado(){
         System.out.println("Marca: " + marca);
         System.out.println("modelo: "+ modelo);
-        System.out.println("Velocida Actual: "+ velocidadActual);
+        System.out.println("Velocidad Actual: "+ velocidadActual);
     }
 
 }
