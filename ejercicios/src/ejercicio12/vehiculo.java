@@ -1,7 +1,6 @@
 package ejercicio12;
 
 public class vehiculo {
-    public class Vehiculo {
         String marca;
         String modelo;
         double velocidadActual;
@@ -15,12 +14,12 @@ public class vehiculo {
 
         // metodo aceleral
 
-        public void acelerar(double velocidadActual){
+        public void acelerar(){
             velocidadActual = velocidadActual + 10;
 
         }
         //metodo frenar
-        public void  frenar(double velocidadActual) {
+        public void  frenar( ) {
             if (velocidadActual >= 10) {
                 velocidadActual = velocidadActual - 10;
 
@@ -29,5 +28,4 @@ public class vehiculo {
             }
         }
 
-    }
 }

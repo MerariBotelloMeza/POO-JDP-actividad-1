@@ -14,7 +14,7 @@ public class Vehiculo {
 
     // metodo aceleral
 
-    public void acelerar(double velocidadActual){
+    public void acelerar(){
         velocidadActual = velocidadActual + 10;
 
     }

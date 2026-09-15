@@ -8,7 +8,7 @@ public class mainEstudi {
         // se asignaron valores manuales
         estudiantes.nombre="carla";
         estudiantes.codigo = 4444;
-        estudiantes.semestre = "Primer";
+        estudiantes.semestre = "Primero";
 
         //muestra la infor
         estudiantes.mostrarInfo();

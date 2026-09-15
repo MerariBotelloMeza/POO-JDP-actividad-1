@@ -10,5 +10,4 @@ public class Vehiculo {
         System.out.println("modelo: "+ modelo);
         System.out.println("Velocida Actual: "+ velocidadActual);
     }
-
 }

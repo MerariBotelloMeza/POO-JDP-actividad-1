@@ -5,7 +5,7 @@ public class main {
 
         Semaforo semaforo1 = new Semaforo();
 
-        semaforo1.color=0;
+        semaforo1.color=-5;
 
         semaforo1.mostrarSemaforo();
     }

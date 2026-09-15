@@ -5,7 +5,7 @@ public class CuentaBancaria {
     String titular;
     double saldo;
 
-    // metodo consignar
+    // metodo retirar
     public void retirar(double valor){
         if(saldo >= valor) {
             saldo = saldo - valor;
@@ -14,5 +14,4 @@ public class CuentaBancaria {
             System.out.println("saldo insuficiente");
         }
     }
-
 }
